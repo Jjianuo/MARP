@@ -1,0 +1,4 @@
+﻿  FreeLove.cpp
+D:\My files\Tercero\MARP\Ejercicios\FreeLove\FreeLove.cpp(89,87): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My files\Tercero\MARP\Ejercicios\FreeLove\FreeLove.cpp(89,100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FreeLove.vcxproj -> D:\My files\Tercero\MARP\Ejercicios\FreeLove\x64\Debug\FreeLove.exe

@@ -1,0 +1,8 @@
+﻿  Manchas.cpp
+D:\My files\MARP\Ejercicios\Manchas_negras\Manchas.h(11,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My files\MARP\Ejercicios\Manchas_negras\Manchas.h(11,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Manchas_negras.cpp
+D:\My files\MARP\Ejercicios\Manchas_negras\Manchas.h(11,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My files\MARP\Ejercicios\Manchas_negras\Manchas.h(11,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Manchas_negras.vcxproj -> D:\My files\MARP\Ejercicios\Manchas_negras\x64\Debug\Manchas_negras.exe

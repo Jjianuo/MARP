@@ -1,0 +1,14 @@
+﻿  Conectados.cpp
+D:\My files\MARP\Ejercicios\Las_noticias_vuelan\Conectados.h(32,30): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Las_noticias_vuelan.cpp
+D:\My files\MARP\Ejercicios\Las_noticias_vuelan\Conectados.h(32,30): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating Code...
+  Las_noticias_vuelan.vcxproj -> D:\My files\MARP\Ejercicios\Las_noticias_vuelan\x64\Debug\Las_noticias_vuelan.exe

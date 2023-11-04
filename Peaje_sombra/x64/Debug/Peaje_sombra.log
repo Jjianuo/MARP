@@ -1,0 +1,5 @@
+﻿  Peaje_sombra.cpp
+D:\My files\Tercero\MARP\Ejercicios\Peaje_sombra\Peaje_sombra.cpp(51,9): warning C4101: 'a': unreferenced local variable
+D:\My files\Tercero\MARP\Ejercicios\Peaje_sombra\Peaje_sombra.cpp(51,12): warning C4101: 'b': unreferenced local variable
+D:\My files\Tercero\MARP\Ejercicios\Peaje_sombra\Peaje_sombra.cpp(51,15): warning C4101: 'c': unreferenced local variable
+  Peaje_sombra.vcxproj -> D:\My files\Tercero\MARP\Ejercicios\Peaje_sombra\x64\Debug\Peaje_sombra.exe

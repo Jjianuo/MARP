@@ -1,0 +1,4 @@
+﻿  Maquina_calculadora.cpp
+D:\My files\Tercero\MARP\Ejercicios\Maquina_calculadora\Maquina_calculadora.cpp(56): warning C4715: 'bfs': not all control paths return a value
+D:\My files\Tercero\MARP\Ejercicios\Maquina_calculadora\Maquina_calculadora.cpp(38): warning C4715: 'adyacente': not all control paths return a value
+  Maquina_calculadora.vcxproj -> D:\My files\Tercero\MARP\Ejercicios\Maquina_calculadora\x64\Debug\Maquina_calculadora.exe
